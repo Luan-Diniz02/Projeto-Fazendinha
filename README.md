@@ -1,1 +1,1 @@
-Projeto final da disciplan de POO com o intuito de aplicar os conhecimentos adquiridos durante as aulas e aprender fazer um programa com interface gráfica que possua conexão com um banco de dados
+Projeto final da disciplina de Programação Orientada a Objetos (POO) desenvolvido para aplicar os conceitos aprendidos em aula. O objetivo é criar um programa com interface gráfica que se conecte a um banco de dados.
